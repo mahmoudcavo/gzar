@@ -1,0 +1,12 @@
+.tooltipster-forum {
+	background: rgb( 53, 60, 65 ) !important;
+  	border-bottom: 3px solid rgb( 112, 169, 243 ) !important;
+  	border-radius: 5px !important;
+  	color: rgb( 255, 255, 255 ) !important;
+}
+.tooltipster-forum .tooltipster-content {
+	font-size: 15px !important;
+	font-weight: 400 !important;
+	line-height: normal !important;
+	padding: 10px !important;
+}
